@@ -30,6 +30,6 @@ bitmask approach (n ≤ 22).
 ## How to Run
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/gakash8860/SmartLoadApplication
 cd smartload
 docker compose up --build
